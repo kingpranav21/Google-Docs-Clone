@@ -1,6 +1,6 @@
-# OpenWord - Word-style Text Editor
+# Google-Docs style Editor
 
-A frontend-only Microsoft Word-style editor built with React and Tailwind CSS.
+A frontend-only Google-Docs style editor built with React and Tailwind CSS.
 
 ## Features
 
