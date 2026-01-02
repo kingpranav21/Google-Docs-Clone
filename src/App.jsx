@@ -1210,6 +1210,17 @@ export default function OpenWord() {
           <span>Ctrl+S (Save)</span>
         </div>
       </div>
+
+      <footer className="text-center py-4 text-sm text-gray-500">
+      <a
+        href="https://github.com/kingpranav21/Google-Docs-Clone"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:underline"
+      >
+        View source on GitHub
+      </a>
+    </footer>
     </div>
   );
 }
